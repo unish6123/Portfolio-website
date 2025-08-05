@@ -1,0 +1,40 @@
+.contact {
+    padding: 80px 20px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .contact-container {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  
+  .contact-title {
+    font-size: 2rem;
+    margin-bottom: 24px;
+    color: #007acc;
+    border-bottom: 2px solid #007acc;
+    display: inline-block;
+    padding-bottom: 6px;
+  }
+  
+  .contact-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .contact-list li {
+    margin: 12px 0;
+    font-size: 1.1rem;
+  }
+  
+  .contact-list a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  .contact-list a:hover {
+    text-decoration: underline;
+  }
+  
